@@ -60,7 +60,7 @@ const UserHeader = ({ user }) => {
                         {!user.profilePic && (
                             <Avatar
                                 name={user.name}
-                                src="https://bit.ly/sage-adebayo"
+                                src=""
                                 size={{
                                     base: 'md',
                                     md: "xl"
